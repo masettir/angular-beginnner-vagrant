@@ -3,8 +3,6 @@
 # Vagrant experiencebox
 Vagrant box and provisioning for ExperienceTools environment developer area
 
-----------
-
 # Install
 
  - Clone the repo from github
